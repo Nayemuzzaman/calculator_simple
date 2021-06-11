@@ -1,5 +1,7 @@
 # calculator_simple
-![Screen-Recording-2021-06-11-at-5](https://user-images.githubusercontent.com/12158468/121612326-0004c480-ca7c-11eb-9619-f7ca385bb162.gif)
+
+<img src="![Screen-Recording-2021-06-11-at-5](https://user-images.githubusercontent.com/12158468/121612326-0004c480-ca7c-11eb-9619-f7ca385bb162.gif)" width="250" height="250"/>
+
 
 A new simple calculator project using Flutter .
 
