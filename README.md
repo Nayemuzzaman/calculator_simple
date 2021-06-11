@@ -1,6 +1,6 @@
 # calculator_simple
 
-<img src="https://user-images.githubusercontent.com/12158468/121612326-0004c480-ca7c-11eb-9619-f7ca385bb162.gif" width="450" height="750"/>
+<img src="https://user-images.githubusercontent.com/12158468/121612326-0004c480-ca7c-11eb-9619-f7ca385bb162.gif" width="350" height="650"/>
 
 
 A new simple calculator project using Flutter .
